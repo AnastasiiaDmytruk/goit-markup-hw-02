@@ -21,8 +21,8 @@ body {
 .logo-accent-header {
   color: #2e2f42;
 }
-.link{
-    line-height: 1.5;
+.link {
+  line-height: 1.5;
 }
 
 .page-nav .link {
@@ -63,7 +63,6 @@ body {
 }
 
 .btn {
-  border-radius: 4px;
   color: #ffffff;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -78,8 +77,8 @@ body {
   background: #404bbf;
 }
 /* Features */
-.section-feature-title{
-    font-size: 20px;
+.section-feature-title {
+  font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -87,17 +86,17 @@ body {
 }
 .feature-item {
   color: #434455;
-  line-height: 1.5
+  line-height: 1.5;
 }
 .feature-title {
   font-size: 20px;
   font-weight: 500;
   line-height: 24px; /* 120% */
   letter-spacing: 0.4px;
-  color: #2e2f42;;
+  color: #2e2f42;
 }
 .feature-text {
-    color: #434455;
+  color: #434455;
 }
 /* Our Team */
 .team {
@@ -142,10 +141,10 @@ body {
   color: #2e2f42;
 }
 .portfolio-text {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455 ;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* Footer */
@@ -157,7 +156,6 @@ body {
   color: #f4f4fd;
 }
 .footer-text {
-    line-height: 1.5;
-    color: #F4F4FD;
-
+  line-height: 1.5;
+  color: #f4f4fd;
 }
